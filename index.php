@@ -168,10 +168,10 @@ $conn->close();
   <div class="buttoncontainer">
     <div class="all_button">
       <a href="import.php">
-        <button class="btnimport"><i class="fa fa-rotate-left"></i> Import</button>
+        <button class="btnimport"><i class="fa-solid fa-file-import"></i> Import</button>
       </a>
       <a href="export.php">
-        <button class="btnexport"><i class="fa fa-rotate-right"></i> Export</button>
+        <button class="btnexport"><i class="fa-solid fa-file-export"></i> Export</button>
       </a>
       <a href="reset.php">
         <button class="btnreset"><i class="fa fa-rotate-left"></i> Reset</button>
